@@ -1,0 +1,241 @@
+{
+  "label": "Maio 2026",
+  "total": 125,
+  "data": [
+    {
+      "name": "ADAPTADOR TOMADA (BRINDE)",
+      "quantity": 4,
+      "percentage": 0.032
+    },
+    {
+      "name": "ASSISTÊNCIA SENHA DESBLOQUEIO(PDV)",
+      "quantity": 2,
+      "percentage": 0.016
+    },
+    {
+      "name": "BOTICARIO(BRINDE)",
+      "quantity": 2,
+      "percentage": 0.016
+    },
+    {
+      "name": "CAPA HONOR X7C",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "CAPA HONOR X7D 4G",
+      "quantity": 2,
+      "percentage": 0.016
+    },
+    {
+      "name": "CARREGADOR 20W ESSAGER COMPLETO IPHONE",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "CARREGADOR 35W KD-671CC KAIDI COMPLETO",
+      "quantity": 2,
+      "percentage": 0.016
+    },
+    {
+      "name": "CARREGADOR MOTOROLA 68W",
+      "quantity": 5,
+      "percentage": 0.04
+    },
+    {
+      "name": "CHIP CLARO PREZÃO",
+      "quantity": 8,
+      "percentage": 0.064
+    },
+    {
+      "name": "CHIP TIM PRE C REGARGA",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "DESCONTO VENDA",
+      "quantity": 8,
+      "percentage": 0.064
+    },
+    {
+      "name": "FONE BLUETOOTH REDMI AIRDOTS (BRINDE)",
+      "quantity": 15,
+      "percentage": 0.12
+    },
+    {
+      "name": "FONE KD730 KAIDI",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "HONOR X5C 4/128 OCEAN CYAN",
+      "quantity": 2,
+      "percentage": 0.016
+    },
+    {
+      "name": "HONOR X7D 8/256 DESERT GOLD",
+      "quantity": 6,
+      "percentage": 0.048
+    },
+    {
+      "name": "HONOR X7D 8/256 OCEAN CYAN",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "HONOR X7D 8/256 VELVET BLACK",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "IPHONE 13 128G ROSA",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "IPHONE 14 128G AZUL",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "IPHONE 15 PLUS 256 PRETO",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "IPHONE 15 PRO 256 PRETO",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G05 4/128 VERDE",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G05 4/128 VERMELHO",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 4/128 CINZA",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "MOTO G15 4/128 VERDE",
+      "quantity": 4,
+      "percentage": 0.032
+    },
+    {
+      "name": "MOTO G15 4/256 CINZA",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 8/128 CINZA",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 8/128 IGUANA GREEN",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 8/256 GRAVITY GRAY",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 8/256 IGUANA GREEN",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "MOTO G15 8/256 SEA BLUE",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "PAGAMENTO NUOVO(PDV)",
+      "quantity": 8,
+      "percentage": 0.064
+    },
+    {
+      "name": "PELICULA HD HYDROGEL PREMIUM +",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "PELICULA HD HYDROGEL STANDARD",
+      "quantity": 7,
+      "percentage": 0.056
+    },
+    {
+      "name": "PELICULA PRIVACIDADE HYDROGEL SUPER PREMIUM",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME C67 8/256 ** S/NFC ** BLACK ROCK",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME C67 8/256 ** S/NFC** SUNNY OASIS",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME C71 8/256 FOREST OWL",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "REALME C71 8/256 VIOLET PARROT",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "REALME C71 8/256 WHITE SWAN",
+      "quantity": 4,
+      "percentage": 0.032
+    },
+    {
+      "name": "REALME C75 8/256 STORM BLACK",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME C85 8/256 KINGFISHER BLUE",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME NOTE 70 4/128 BEACH GOLD",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME NOTE 70 4/128 OBSIDIAN BLACK",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REALME NOTE 70 8/256 BEACH GOLD",
+      "quantity": 1,
+      "percentage": 0.008
+    },
+    {
+      "name": "REDMI A5 4/128 PRETO",
+      "quantity": 3,
+      "percentage": 0.024
+    },
+    {
+      "name": "REDMI NOTE 15 5G 8/256 AZUL GLACIER",
+      "quantity": 1,
+      "percentage": 0.008
+    }
+  ]
+}

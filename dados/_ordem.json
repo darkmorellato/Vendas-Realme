@@ -1,0 +1,15 @@
+{
+  "_ordem_exibicao": [
+    "jul2026",
+    "jun2026",
+    "mai2026",
+    "abr2026",
+    "mar2026",
+    "fev2026",
+    "jan2026",
+    "dez2025",
+    "nov2025",
+    "out2025"
+  ],
+  "_instrucoes": " Para adicionar um novo mês: copie um bloco existente (ex: fev2026), altere a chave (ex: 'mar2026'), 'label', 'total' e 'data'. Certifique que a nova chave está no INÍCIO de '_ordem_exibicao'. Salve e recarregue o dashboard."
+}
