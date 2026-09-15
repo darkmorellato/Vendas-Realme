@@ -617,7 +617,7 @@
 
         // Funcao para obter categoria
         function getCategory(name) {
-            const n = name.toUpperCase();
+            const n = name.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toUpperCase();
             if (n.includes("BRINDE")) return "BRINDES";
             if (n.includes("CABO") || n.includes("FONTE")) return "CABOS/CARREGADORES";
             if (n.includes("CAPA")) return "CAPAS";
@@ -632,7 +632,7 @@
             if (n.includes("REALME") || n.includes("C85") || n.includes("NOTE 70")) return "REALME";
             if (n.includes("POCO")) return "POCO";
             if (n.includes("REDMI") || n.includes("XIAOMI")) return "REDMI";
-            if (n.includes("PELICULA") || n.includes("PELICULA")) return "PELICULAS";
+            if (n.includes("PELICULA")) return "PELICULAS";
             if (n.includes("SAMSUNG")) return "SAMSUNG";
             if (n.includes("ADAPTADOR")) return "ACESSORIOS";
             return "OUTROS";

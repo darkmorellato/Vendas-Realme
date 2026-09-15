@@ -9,6 +9,9 @@ Dashboard executivo para análise de vendas e performance de produtos.
 ├── realme.jpg          # Logo da marca
 ├── dados/              # Diretório com dados mensais
 │   ├── _ordem.json     # Ordem de exibição dos períodos
+│   ├── ago2026.json    # Dados de Agosto 2026
+│   ├── jul2026.json    # Dados de Julho 2026
+│   ├── jun2026.json    # Dados de Junho 2026
 │   ├── mai2026.json    # Dados de Maio 2026
 │   ├── abr2026.json    # Dados de Abril 2026
 │   ├── mar2026.json    # Dados de Março 2026
